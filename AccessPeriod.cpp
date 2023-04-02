@@ -1,11 +1,8 @@
 #include "AccessPeriod.h"
 
-AccessPeriod::AccessPeriod() {};
-AccessPeriod::AccessPeriod(int startDate, int endDate) {};
+#include <string>
 
-AccessPeriod::~AccessPeriod() {};
-
-void AccessPeriod::SetAccessPeriod() {};
+void SetAccessPeriod() {};
 
 // contructor with initializer list cpp reference.com
 
